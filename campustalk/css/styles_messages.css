@@ -1,0 +1,48 @@
+
+div.message-zone {
+    display: flex;
+}
+
+div.profile-pic-space {
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    border-radius: 50%;
+}
+
+div.profile-pic-space img {
+    width: 100%;
+    height: 100%;
+}
+
+div.message-data {
+    font-weight: bold;
+}
+
+span.message-date {
+    margin-left: 2vw;
+    color: grey;
+}
+
+div.message {
+    margin-left: 2vw;
+}
+
+div.message-content {
+    margin-top: 1vw;
+    display: flex;
+    flex-direction: column;
+}
+
+div.message-zone{
+    margin-bottom: 2vh;
+}
+
+.liked {
+    color: red;
+    font-weight: bold;
+}
+
+img {
+    max-width: 50vw;
+}
